@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLogsToSeq", "AzureLogsToSeq.csproj", "{414A8BB8-8AF1-429D-8072-B0C3C39BDFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414A8BB8-8AF1-429D-8072-B0C3C39BDFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414A8BB8-8AF1-429D-8072-B0C3C39BDFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414A8BB8-8AF1-429D-8072-B0C3C39BDFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414A8BB8-8AF1-429D-8072-B0C3C39BDFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
